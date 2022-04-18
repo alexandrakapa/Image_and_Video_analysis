@@ -1,4 +1,4 @@
-### Image and Video analysis c
+### Image and Video analysis 
 Repository for group projects of Image and Video analysis course in Ntua ECE 2020-2021.
 
 * 1st project:\
